@@ -32,8 +32,8 @@ button {
     border-radius: 10px;
     width: 200px;
     height: 60px;
-    background-color: #2ecc71;
-    border-color: #16a085;
+    background-color: #2980b9;
+    border-color: white;
     font-size: 18px;
     font-family: "Raleway", sans-serif;
     transition: transform 0.8s;
