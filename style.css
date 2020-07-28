@@ -49,7 +49,8 @@ button:hover {
     transform: scale(1.1);
 }
 .footer {
-position: sticky;
+    position: fixed;
+    background-color: rgba(26, 188, 156, 0.3);
     left: 0;
     bottom: 0;
     width: 100%;
